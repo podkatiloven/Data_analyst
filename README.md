@@ -114,7 +114,7 @@
 **Библиотеки:**
 `pandas, plotly, matplotlib, math, scipy`
 
-### 12.3 <a href="https://github.com/podkatiloven/Data_analyst/blob/main/12.%20Выпускной%20проект/SQL.ipynb" target="blank">А/В тестирование</a>
+### 12.3 <a href="https://github.com/podkatiloven/Data_analyst/blob/main/12.%20Выпускной%20проект/SQL.ipynb" target="blank">SQL</a>
 
 **Задача:**
 Необходимо проанализировать базу данных и сформулировать ценностное предложение для нового продукта.
